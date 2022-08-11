@@ -57,6 +57,7 @@ a{
 
 .img-fluid{
     width: 100%;
+    overflow: hidden;
 }
 
 .text-title{
