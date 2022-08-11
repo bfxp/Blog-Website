@@ -212,6 +212,11 @@ grid{
     .grid .grid-item{
         width: calc(50% - 20px);
     }
+
+    .col-3{
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
 }
 
 @media (max-width: 574px){
